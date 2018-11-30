@@ -1,7 +1,7 @@
 const Telegraf = require('telegraf')
 const Web3 = require('web3');
 const provider = new HDWalletProvider(
-	'recycle dash year slim prison twenty angle parade mouse rack adult method',
+	'',
 	'https://rinkeby.infura.io/w7sXwXV3GmYH938ht480'
 );
 const web3 = new Web3(provider);
